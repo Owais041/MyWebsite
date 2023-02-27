@@ -204,6 +204,9 @@ html{
     font-family: 'Bree Serif', serif;
 
 } 
+#services-container:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
 
 /* Clients Section */
 #client-section{ 
@@ -230,6 +233,9 @@ html{
 
 .client-item{
     padding: 34px;
+}
+.client-item:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
 #clients img{
